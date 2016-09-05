@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "uuu - export styles",
+        "command": "uuu:exportstyles"
+      },
+      {
+        "label": "uuu - import styles",
+        "command": "uuu:importstyles"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "uuu",
+          "submenu": [
+            {
+              "label": "Export styles",
+              "command": "uuu:exportstyles"
+            },
+            {
+              "label": "Import styles",
+              "command": "uuu:importstyles"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
