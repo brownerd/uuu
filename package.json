@@ -6,8 +6,10 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "uuu:exportstyles",
-    "atom-workspace": "uuu:importstyles"
+    "atom-workspace": [
+      "uuu:exportstyles",
+      "uuu:importstyles"
+    ]
   },
   "repository": "https://github.com/atom/uuu",
   "license": "MIT",
