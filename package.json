@@ -10,8 +10,7 @@
       "uuu:syntaxExportStyles",
       "uuu:syntaxImportStyles",
       "uuu:uiExportStyles",
-      "uuu:uiImportStyles",
-      "uuu:uigreyout"
+      "uuu:uiImportStyles"
     ]
   },
   "repository": "https://github.com/atom/uuu",
