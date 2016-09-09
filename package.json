@@ -7,8 +7,10 @@
   ],
   "activationCommands": {
     "atom-workspace": [
-      "uuu:exportstyles",
-      "uuu:importstyles"
+      "uuu:syntaxExportStyles",
+      "uuu:syntaxImportStyles",
+      "uuu:uiExportStyles",
+      "uuu:uiImportStyles"
     ]
   },
   "repository": "https://github.com/atom/uuu",

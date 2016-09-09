@@ -1,6 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-alt-cmd-e": "uuu:exportstyles",
-    "ctrl-alt-cmd-i": "uuu:importstyles"
+    "ctrl-alt-cmd-e": "uuu:syntaxExportStyles",
+    "ctrl-alt-cmd-i": "uuu:syntaxImportStyles",
+    "ctrl-alt-e": "uuu:uiExportStyles",
+    "ctrl-alt-i": "uuu:uiImportStyles"
   }
 }

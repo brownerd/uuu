@@ -2,12 +2,20 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "uuu - export styles",
-        "command": "uuu:exportstyles"
+        "label": "uuu - Syntax Export Styles",
+        "command": "uuu:syntaxExportStyles"
       },
       {
-        "label": "uuu - import styles",
-        "command": "uuu:importstyles"
+        "label": "uuu - Syntax Import Styles",
+        "command": "uuu:syntaxImportStyles"
+      },
+      {
+        "label": "uuu - UI Export Styles",
+        "command": "uuu:uiExportStyles"
+      },
+      {
+        "label": "uuu - UI Import Styles",
+        "command": "uuu:uiImportStyles"
       }
     ]
   },
@@ -19,12 +27,20 @@
           "label": "uuu",
           "submenu": [
             {
-              "label": "Export styles",
-              "command": "uuu:exportstyles"
+              "label": "Syntax Export Styles",
+              "command": "uuu:syntaxExportStyles"
             },
             {
-              "label": "Import styles",
-              "command": "uuu:importstyles"
+              "label": "Syntax Import Styles",
+              "command": "uuu:syntaxImportStyles"
+            },
+            {
+              "label": "UI Export Styles",
+              "command": "uuu:uiExportStyles"
+            },
+            {
+              "label": "UI Import Styles",
+              "command": "uuu:uiImportStyles"
             }
           ]
         }
