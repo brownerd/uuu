@@ -2,7 +2,7 @@
   "name": "uuu",
   "main": "./lib/uuu",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "UUU allows you to export and import UUU-Syntaxes and UUU-themes.",
   "keywords": [
   ],
   "activationCommands": {
@@ -10,7 +10,10 @@
       "uuu:syntaxExportStyles",
       "uuu:syntaxImportStyles",
       "uuu:uiExportStyles",
-      "uuu:uiImportStyles"
+      "uuu:uiImportStyles",
+      "uuu:fontcheck",
+      "uuu:fontsync",
+      "uuu:reloadWindow"
     ]
   },
   "repository": "https://github.com/atom/uuu",

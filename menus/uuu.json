@@ -16,6 +16,18 @@
       {
         "label": "uuu - UI import",
         "command": "uuu:uiImportStyles"
+      },
+      {
+        "label": "uuu - Font check",
+        "command": "uuu:fontcheck"
+      },
+      {
+        "label": "uuu - Font sync",
+        "command": "uuu:fontsync"
+      },
+      {
+        "label": "uuu - Reload window",
+        "command": "uuu:reloadWindow"
       }
     ]
   },
@@ -35,12 +47,24 @@
               "command": "uuu:syntaxImportStyles"
             },
             {
-              "label": "UI - import",
+              "label": "UI - export",
               "command": "uuu:uiExportStyles"
             },
             {
               "label": "UI - import",
               "command": "uuu:uiImportStyles"
+            },
+            {
+              "label": "Font check",
+              "command": "uuu:fontcheck"
+            },
+            {
+              "label": "Font sync",
+              "command": "uuu:fontsync"
+            },
+            {
+              "label": "Reload window",
+              "command": "uuu:reloadWindow"
             }
           ]
         }
