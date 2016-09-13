@@ -61,7 +61,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(191, 54, 54, 1);
 @value-button-color: 0;
 @value-border-color: -5;
-@nav-value: 0;
+@background-navvalue: 0;
 @find-and-replace-border-highlight-color: rgba(255, 255, 255, 1);
 @find-and-replace-current-border-highlight-color: rgba(0, 255, 102, 1);
 @info-color: rgba(0, 170, 255, 1);
@@ -91,7 +91,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(0, 243, 178, 1);
 @button-value: 0;
 @border-value: -20;
-@nav-value: -15;
+@background-navvalue: -15;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(220, 50, 47, 1);
 @git-infoColor: rgba(0, 170, 255, 1);
@@ -118,7 +118,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(255, 204, 33, 1);
 @button-value: 0;
 @border-value: -20;
-@nav-value: -30;
+@background-navvalue: -30;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(220, 50, 47, 1);
 @git-infoColor: rgba(0, 170, 255, 1);
@@ -145,7 +145,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(239, 251, 34, 1);
 @button-value: 30;
 @border-value: -20;
-@nav-value: -30;
+@background-navvalue: -30;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(254, 131, 87, 1);
 @git-infoColor: rgba(0, 249, 249, 1);
@@ -174,7 +174,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(29, 138, 200, 1);
 @button-value: 30;
 @border-value: -20;
-@nav-value: -30;
+@background-navvalue: -30;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(254, 131, 87, 1);
 @git-infoColor: rgba(0, 170, 255, 1);
@@ -201,7 +201,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(255, 251, 0, 1);
 @button-value: 30;
 @border-value: 30;
-@nav-value: -30;
+@background-navvalue: -30;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(255, 38, 0, 1);
 @git-infoColor: rgba(0, 145, 147, 1);
@@ -229,7 +229,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(235, 235, 235, 1);
 @button-value: 0;
 @border-value: -15;
-@nav-value: -10;
+@background-navvalue: -10;
 @findAndReplace-borderHighLightColor: rgba(169, 169, 169, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(255, 126, 121, 1);
 @git-infoColor: rgba(0, 145, 147, 1);
@@ -255,7 +255,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-color: rgba(235, 235, 235, 1);
 @button-value: 10;
 @border-value: -15;
-@nav-value: -10;
+@background-navvalue: -10;
 @findAndReplace-borderHighLightColor: rgba(169, 169, 169, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(255, 126, 121, 1);
 @git-infoColor: rgba(0, 145, 147, 1);
@@ -296,7 +296,7 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 @button-textcolor: text;
 @border-value: -25;
 @border-radius: 2;
-@nav-value: -30;
+@background-navvalue: -30;
 @findAndReplace-borderHighLightColor: rgba(255, 255, 255, 1);
 @findAndReplace-borderHighLightColorCurrent: rgba(0, 255, 102, 1);
 @git-infoColor: rgba(0, 170, 255, 1);
