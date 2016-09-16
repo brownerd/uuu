@@ -13,7 +13,16 @@
       "uuu:uiImportStyles",
       "uuu:fontcheck",
       "uuu:fontsync",
-      "uuu:reloadWindow"
+      "uuu:reloadWindow",
+      "uuu:runpreset1",
+      "uuu:runpreset2",
+      "uuu:runpreset3",
+      "uuu:runpreset4",
+      "uuu:runpreset5",
+      "uuu:runpreset6",
+      "uuu:runpreset7",
+      "uuu:runpreset8",
+      "uuu:runpreset9"
     ]
   },
   "repository": "https://github.com/atom/uuu",
