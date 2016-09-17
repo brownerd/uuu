@@ -55,15 +55,15 @@
               "command": "uuu:uiImportStyles"
             },
             {
-              "label": "Font check",
+              "label": "Font: check",
               "command": "uuu:fontcheck"
             },
             {
-              "label": "Font sync",
+              "label": "Font: sync",
               "command": "uuu:fontsync"
             },
             {
-              "label": "Reload window",
+              "label": "Reload: window",
               "command": "uuu:reloadWindow"
             },
             {
@@ -103,8 +103,28 @@
               "command": "uuu:runpreset9"
             },
             {
-              "label": "Save: preset 1",
-              "command": "uuu:savepreset1"
+              "label": "Save: UUUr theme 1",
+              "command": "uuu:savetheme1"
+            },
+            {
+              "label": "Save: UUUr theme 2",
+              "command": "uuu:savetheme2"
+            },
+            {
+              "label": "Save: UUUr theme 3",
+              "command": "uuu:savetheme3"
+            },
+            {
+              "label": "Use: UUUr theme 1",
+              "command": "uuu:usetheme1"
+            },
+            {
+              "label": "Use: UUUr theme 2",
+              "command": "uuu:usetheme2"
+            },
+            {
+              "label": "Use: UUUr theme 3",
+              "command": "uuu:usetheme3"
             }
           ]
         }
