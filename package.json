@@ -22,7 +22,8 @@
       "uuu:runpreset6",
       "uuu:runpreset7",
       "uuu:runpreset8",
-      "uuu:runpreset9"
+      "uuu:runpreset9",
+      "uuu:savepreset1"
     ]
   },
   "repository": "https://github.com/atom/uuu",
