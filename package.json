@@ -3,8 +3,7 @@
   "main": "./lib/uuu",
   "version": "0.0.0",
   "description": "UUU allows you to export and import UUU-Syntaxes and UUU-themes.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "uuu:syntaxExportStyles",
@@ -37,5 +36,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "electron-json-storage": "^2.0.0"
   }
 }
