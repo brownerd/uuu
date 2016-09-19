@@ -103,27 +103,27 @@
               "command": "uuu:runpreset9"
             },
             {
-              "label": "Save: UUUr theme 1",
+              "label": "Save: Theme 1",
               "command": "uuu:savetheme1"
             },
             {
-              "label": "Save: UUUr theme 2",
+              "label": "Save: Theme 2",
               "command": "uuu:savetheme2"
             },
             {
-              "label": "Save: UUUr theme 3",
+              "label": "Save: Theme 3",
               "command": "uuu:savetheme3"
             },
             {
-              "label": "Use: UUUr theme 1",
+              "label": "Use: Theme 1",
               "command": "uuu:usetheme1"
             },
             {
-              "label": "Use: UUUr theme 2",
+              "label": "Use: Theme 2",
               "command": "uuu:usetheme2"
             },
             {
-              "label": "Use: UUUr theme 3",
+              "label": "Use: Theme 3",
               "command": "uuu:usetheme3"
             }
           ]
