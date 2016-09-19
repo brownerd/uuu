@@ -2,31 +2,31 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "uuu - Syntax export",
+        "label": "uuu: Syntax export",
         "command": "uuu:syntaxExportStyles"
       },
       {
-        "label": "uuu - Syntax import",
+        "label": "uuu: Syntax import",
         "command": "uuu:syntaxImportStyles"
       },
       {
-        "label": "uuu - UI export",
+        "label": "uuu: UI export",
         "command": "uuu:uiExportStyles"
       },
       {
-        "label": "uuu - UI import",
+        "label": "uuu: UI import",
         "command": "uuu:uiImportStyles"
       },
       {
-        "label": "uuu - Font check",
+        "label": "uuu: Font check",
         "command": "uuu:fontcheck"
       },
       {
-        "label": "uuu - Font sync",
+        "label": "uuu: Font sync",
         "command": "uuu:fontsync"
       },
       {
-        "label": "uuu - Reload window",
+        "label": "uuu: Reload window",
         "command": "uuu:reloadWindow"
       }
     ]
@@ -39,32 +39,92 @@
           "label": "uuu",
           "submenu": [
             {
-              "label": "Syntax - export",
+              "label": "Syntax: export",
               "command": "uuu:syntaxExportStyles"
             },
             {
-              "label": "Syntax - import",
+              "label": "Syntax: import",
               "command": "uuu:syntaxImportStyles"
             },
             {
-              "label": "UI - export",
+              "label": "UI: export",
               "command": "uuu:uiExportStyles"
             },
             {
-              "label": "UI - import",
+              "label": "UI: import",
               "command": "uuu:uiImportStyles"
             },
             {
-              "label": "Font check",
+              "label": "Font: check",
               "command": "uuu:fontcheck"
             },
             {
-              "label": "Font sync",
+              "label": "Font: sync",
               "command": "uuu:fontsync"
             },
             {
-              "label": "Reload window",
+              "label": "Reload: window",
               "command": "uuu:reloadWindow"
+            },
+            {
+              "label": "Preset: Schmaterial",
+              "command": "uuu:runpreset1"
+            },
+            {
+              "label": "Preset: Stranger Things",
+              "command": "uuu:runpreset2"
+            },
+            {
+              "label": "Preset: SuperNintendo",
+              "command": "uuu:runpreset3"
+            },
+            {
+              "label": "Preset: Crockford",
+              "command": "uuu:runpreset4"
+            },
+            {
+              "label": "Preset: AirMax95",
+              "command": "uuu:runpreset5"
+            },
+            {
+              "label": "Preset: MiamiVice",
+              "command": "uuu:runpreset6"
+            },
+            {
+              "label": "Preset: PrincessPeach",
+              "command": "uuu:runpreset7"
+            },
+            {
+              "label": "Preset: Brownerd",
+              "command": "uuu:runpreset8"
+            },
+            {
+              "label": "Preset: Cardinals",
+              "command": "uuu:runpreset9"
+            },
+            {
+              "label": "Save: Theme 1",
+              "command": "uuu:savetheme1"
+            },
+            {
+              "label": "Save: Theme 2",
+              "command": "uuu:savetheme2"
+            },
+            {
+              "label": "Save: Theme 3",
+              "command": "uuu:savetheme3"
+            },
+            {
+              "label": "Use: Theme 1",
+              "command": "uuu:usetheme1"
+            },
+            {
+              "label": "Use: Theme 2",
+              "command": "uuu:usetheme2"
+            },
+            {
+              "label": "Use: Theme 3",
+              "command": "uuu:usetheme3"
             }
           ]
         }

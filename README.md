@@ -405,7 +405,7 @@ Overall, I can live with what UUU-Syntax covers. If there is a special case that
 @gutter-color: rgba(51, 51, 51, 1);
 @folded-codecolor: rgba(255, 0, 255, 1);
 @linenos-selection: rgba(0, 255, 102, 1);
-@bracketmatcher-background: rgba(255, 0, 255, 1);
+@bracketmatcher-backgroundcolor: rgba(255, 0, 255, 1);
 @indentguide-linecolor: rgba(214, 214, 214, 1);
 @punctuation-color: rgba(51, 51, 51, 1);
 @punctuation-weight: bold;
@@ -498,7 +498,7 @@ Overall, I can live with what UUU-Syntax covers. If there is a special case that
 @gutter-color: rgba(255, 212, 121, 1);
 @folded-codecolor: rgba(255, 0, 255, 1);
 @linenos-selection: rgba(155, 115, 191, 1);
-@bracketmatcher-background: rgba(255, 251, 0, 1);
+@bracketmatcher-backgroundcolor: rgba(255, 251, 0, 1);
 @indentguide-linecolor: rgba(255, 251, 0, 1);
 @punctuation-color: rgba(0, 84, 147, 1);
 @punctuation-weight: bold;

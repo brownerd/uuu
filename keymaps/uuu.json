@@ -6,6 +6,15 @@
     "ctrl-alt-i": "uuu:uiImportStyles",
     "ctrl-alt-cmd-c": "uuu:fontcheck",
     "ctrl-alt-cmd-f": "uuu:fontsync",
-    "ctrl-alt-cmd-r": "uuu:reloadWindow"
+    "ctrl-alt-cmd-r": "uuu:reloadWindow",
+    "ctrl-alt-cmd-1": "uuu:runpreset1",
+    "ctrl-alt-cmd-2": "uuu:runpreset2",
+    "ctrl-alt-cmd-3": "uuu:runpreset3",
+    "ctrl-alt-cmd-4": "uuu:runpreset4",
+    "ctrl-alt-cmd-5": "uuu:runpreset5",
+    "ctrl-alt-cmd-6": "uuu:runpreset6",
+    "ctrl-alt-cmd-7": "uuu:runpreset7",
+    "ctrl-alt-cmd-8": "uuu:runpreset8",
+    "ctrl-alt-cmd-9": "uuu:runpreset9"
   }
 }
