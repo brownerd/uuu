@@ -2,7 +2,7 @@
   "name": "uuu",
   "main": "./lib/uuu",
   "version": "0.0.0",
-  "description": "UUU allows you to export and import UUU-Syntaxes and UUU-themes.",
+  "description": "Make awesome syntax and ui themes that you can hack, export and import in seconds. This only works with UUU-Syntax and UUU-UI.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
