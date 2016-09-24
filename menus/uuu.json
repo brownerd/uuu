@@ -68,63 +68,63 @@
             },
             {
               "label": "Preset: Schmaterial",
-              "command": "uuu:runpreset1"
+              "command": "uuu:runPreset1"
             },
             {
               "label": "Preset: Stranger Things",
-              "command": "uuu:runpreset2"
+              "command": "uuu:runPreset2"
             },
             {
               "label": "Preset: SuperNintendo",
-              "command": "uuu:runpreset3"
+              "command": "uuu:runPreset3"
             },
             {
               "label": "Preset: Crockford",
-              "command": "uuu:runpreset4"
+              "command": "uuu:runPreset4"
             },
             {
               "label": "Preset: AirMax95",
-              "command": "uuu:runpreset5"
+              "command": "uuu:runPreset5"
             },
             {
               "label": "Preset: MiamiVice",
-              "command": "uuu:runpreset6"
+              "command": "uuu:runPreset6"
             },
             {
               "label": "Preset: PrincessPeach",
-              "command": "uuu:runpreset7"
+              "command": "uuu:runPreset7"
             },
             {
               "label": "Preset: Brownerd",
-              "command": "uuu:runpreset8"
+              "command": "uuu:runPreset8"
             },
             {
               "label": "Preset: Cardinals",
-              "command": "uuu:runpreset9"
+              "command": "uuu:runPreset9"
             },
             {
               "label": "Save: Theme 1",
-              "command": "uuu:savetheme1"
+              "command": "uuu:saveTheme1"
             },
             {
               "label": "Save: Theme 2",
-              "command": "uuu:savetheme2"
+              "command": "uuu:saveTheme2"
             },
             {
               "label": "Save: Theme 3",
-              "command": "uuu:savetheme3"
+              "command": "uuu:saveTheme3"
             },
             {
               "label": "Use: Theme 1",
-              "command": "uuu:usetheme1"
+              "command": "uuu:useTheme1"
             },
             {
               "label": "Use: Theme 2",
-              "command": "uuu:usetheme2"
+              "command": "uuu:useTheme2"
             },
             {
               "label": "Use: Theme 3",
-              "command": "uuu:usetheme3"
+              "command": "uuu:useTheme3"
             }
           ]
         }

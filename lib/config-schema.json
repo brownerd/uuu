@@ -1,0 +1,17 @@
+{
+  "defaultTheme": {
+    "order": 1,
+    "type": "object",
+    "title": "Default theme",
+    "properties": {
+      "theme": {
+        "order": 1,
+        "title": "Choose a default theme",
+        "description": "This theme will be the defualt theme to load",
+        "type": "string",
+        "enum": ["theme1", "theme2", "theme3", "theme4"],
+        "default": "theme1"
+      }
+    }
+  }
+}
