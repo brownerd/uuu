@@ -10,6 +10,8 @@
       "uuu:syntaxImportStyles",
       "uuu:uiExportStyles",
       "uuu:uiImportStyles",
+      "uuu:exportThemeObject",
+      "uuu:importThemeObject",
       "uuu:fontcheck",
       "uuu:fontsync",
       "uuu:reloadWindow",

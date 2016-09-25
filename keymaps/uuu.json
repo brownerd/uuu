@@ -4,6 +4,8 @@
     "ctrl-alt-cmd-i": "uuu:syntaxImportStyles",
     "ctrl-alt-e": "uuu:uiExportStyles",
     "ctrl-alt-i": "uuu:uiImportStyles",
+    "ctrl-alt-cmd-o": "uuu:exportThemeObject",
+    "ctrl-alt-o": "uuu:importThemeObject",
     "ctrl-alt-cmd-c": "uuu:fontcheck",
     "ctrl-alt-cmd-f": "uuu:fontsync",
     "ctrl-alt-cmd-r": "uuu:reloadWindow",
