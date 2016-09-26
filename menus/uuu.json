@@ -67,40 +67,44 @@
               "command": "uuu:reloadWindow"
             },
             {
-              "label": "Preset: Schmaterial",
+              "label": "Preset: Melowdrama",
               "command": "uuu:runPreset1"
             },
             {
-              "label": "Preset: Stranger Things",
+              "label": "Preset: Amir",
               "command": "uuu:runPreset2"
             },
             {
-              "label": "Preset: SuperNintendo",
+              "label": "Preset: Raji",
               "command": "uuu:runPreset3"
             },
             {
-              "label": "Preset: Crockford",
+              "label": "Preset: Jabari",
               "command": "uuu:runPreset4"
             },
             {
-              "label": "Preset: AirMax95",
+              "label": "Preset: SuperNES",
               "command": "uuu:runPreset5"
             },
             {
-              "label": "Preset: MiamiVice",
+              "label": "Preset: TMNT - Donetello",
               "command": "uuu:runPreset6"
             },
             {
-              "label": "Preset: PrincessPeach",
+              "label": "Preset: Stranger Things",
               "command": "uuu:runPreset7"
             },
             {
-              "label": "Preset: Brownerd",
+              "label": "Preset: Crockford",
               "command": "uuu:runPreset8"
             },
             {
               "label": "Preset: Cardinals",
               "command": "uuu:runPreset9"
+            },
+            {
+              "label": "Preset: Princess Peach",
+              "command": "uuu:runPreset10"
             },
             {
               "label": "Save: Theme 1",
@@ -115,6 +119,34 @@
               "command": "uuu:saveTheme3"
             },
             {
+              "label": "Save: Theme 4",
+              "command": "uuu:saveTheme4"
+            },
+            {
+              "label": "Save: Theme 5",
+              "command": "uuu:saveTheme5"
+            },
+            {
+              "label": "Save: Theme 6",
+              "command": "uuu:saveTheme6"
+            },
+            {
+              "label": "Save: Theme 7",
+              "command": "uuu:saveTheme7"
+            },
+            {
+              "label": "Save: Theme 8",
+              "command": "uuu:saveTheme8"
+            },
+            {
+              "label": "Save: Theme 9",
+              "command": "uuu:saveTheme9"
+            },
+            {
+              "label": "Save: Theme 10",
+              "command": "uuu:saveTheme10"
+            },
+            {
               "label": "Use: Theme 1",
               "command": "uuu:useTheme1"
             },
@@ -125,6 +157,34 @@
             {
               "label": "Use: Theme 3",
               "command": "uuu:useTheme3"
+            },
+            {
+              "label": "Use: Theme 4",
+              "command": "uuu:useTheme4"
+            },
+            {
+              "label": "Use: Theme 5",
+              "command": "uuu:useTheme5"
+            },
+            {
+              "label": "Use: Theme 6",
+              "command": "uuu:useTheme6"
+            },
+            {
+              "label": "Use: Theme 7",
+              "command": "uuu:useTheme7"
+            },
+            {
+              "label": "Use: Theme 8",
+              "command": "uuu:useTheme8"
+            },
+            {
+              "label": "Use: Theme 9",
+              "command": "uuu:useTheme9"
+            },
+            {
+              "label": "Use: Theme 10",
+              "command": "uuu:useTheme10"
             }
           ]
         }
