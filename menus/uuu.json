@@ -2,20 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "uuu: Syntax export",
-        "command": "uuu:syntaxExportStyles"
+        "label": "uuu: Export theme",
+        "command": "uuu:exportThemeObject"
       },
       {
-        "label": "uuu: Syntax import",
-        "command": "uuu:syntaxImportStyles"
-      },
-      {
-        "label": "uuu: UI export",
-        "command": "uuu:uiExportStyles"
-      },
-      {
-        "label": "uuu: UI import",
-        "command": "uuu:uiImportStyles"
+        "label": "uuu: Import theme",
+        "command": "uuu:importThemeObject"
       },
       {
         "label": "uuu: Font check",
@@ -39,20 +31,12 @@
           "label": "uuu",
           "submenu": [
             {
-              "label": "Syntax: export",
-              "command": "uuu:syntaxExportStyles"
+              "label": "uuu: Export theme",
+              "command": "uuu:exportThemeObject"
             },
             {
-              "label": "Syntax: import",
-              "command": "uuu:syntaxImportStyles"
-            },
-            {
-              "label": "UI: export",
-              "command": "uuu:uiExportStyles"
-            },
-            {
-              "label": "UI: import",
-              "command": "uuu:uiImportStyles"
+              "label": "uuu: Import theme",
+              "command": "uuu:importThemeObject"
             },
             {
               "label": "Font: check",
