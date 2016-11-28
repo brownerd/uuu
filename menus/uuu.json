@@ -2,24 +2,24 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "uuu: Export theme",
-        "command": "uuu:exportThemeObject"
+        "label": "urawsm: Export theme",
+        "command": "urawsm:exportThemeObject"
       },
       {
-        "label": "uuu: Import theme",
-        "command": "uuu:importThemeObject"
+        "label": "urawsm: Import theme",
+        "command": "urawsm:importThemeObject"
       },
       {
-        "label": "uuu: Font check",
-        "command": "uuu:fontcheck"
+        "label": "urawsm: Font check",
+        "command": "urawsm:fontcheck"
       },
       {
-        "label": "uuu: Font sync",
-        "command": "uuu:fontsync"
+        "label": "urawsm: Font sync",
+        "command": "urawsm:fontsync"
       },
       {
-        "label": "uuu: Reload window",
-        "command": "uuu:reloadWindow"
+        "label": "urawsm: Reload window",
+        "command": "urawsm:reloadWindow"
       }
     ]
   },
@@ -28,147 +28,147 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "uuu",
+          "label": "urawsm",
           "submenu": [
             {
-              "label": "uuu: Export theme",
-              "command": "uuu:exportThemeObject"
+              "label": "urawsm: Export theme",
+              "command": "urawsm:exportThemeObject"
             },
             {
-              "label": "uuu: Import theme",
-              "command": "uuu:importThemeObject"
+              "label": "urawsm: Import theme",
+              "command": "urawsm:importThemeObject"
             },
             {
               "label": "Font: check",
-              "command": "uuu:fontcheck"
+              "command": "urawsm:fontcheck"
             },
             {
               "label": "Font: sync",
-              "command": "uuu:fontsync"
+              "command": "urawsm:fontsync"
             },
             {
               "label": "Reload: window",
-              "command": "uuu:reloadWindow"
+              "command": "urawsm:reloadWindow"
             },
             {
               "label": "Preset: Melowdrama",
-              "command": "uuu:runPreset1"
+              "command": "urawsm:runPreset1"
             },
             {
               "label": "Preset: Amir",
-              "command": "uuu:runPreset2"
+              "command": "urawsm:runPreset2"
             },
             {
               "label": "Preset: Raji",
-              "command": "uuu:runPreset3"
+              "command": "urawsm:runPreset3"
             },
             {
               "label": "Preset: Jabari",
-              "command": "uuu:runPreset4"
+              "command": "urawsm:runPreset4"
             },
             {
               "label": "Preset: SuperNES",
-              "command": "uuu:runPreset5"
+              "command": "urawsm:runPreset5"
             },
             {
               "label": "Preset: TMNT - Donetello",
-              "command": "uuu:runPreset6"
+              "command": "urawsm:runPreset6"
             },
             {
               "label": "Preset: Stranger Things",
-              "command": "uuu:runPreset7"
+              "command": "urawsm:runPreset7"
             },
             {
               "label": "Preset: Crockford",
-              "command": "uuu:runPreset8"
+              "command": "urawsm:runPreset8"
             },
             {
               "label": "Preset: Cardinals",
-              "command": "uuu:runPreset9"
+              "command": "urawsm:runPreset9"
             },
             {
               "label": "Preset: Princess Peach",
-              "command": "uuu:runPreset10"
+              "command": "urawsm:runPreset10"
             },
             {
               "label": "Save: Theme 1",
-              "command": "uuu:saveTheme1"
+              "command": "urawsm:saveTheme1"
             },
             {
               "label": "Save: Theme 2",
-              "command": "uuu:saveTheme2"
+              "command": "urawsm:saveTheme2"
             },
             {
               "label": "Save: Theme 3",
-              "command": "uuu:saveTheme3"
+              "command": "urawsm:saveTheme3"
             },
             {
               "label": "Save: Theme 4",
-              "command": "uuu:saveTheme4"
+              "command": "urawsm:saveTheme4"
             },
             {
               "label": "Save: Theme 5",
-              "command": "uuu:saveTheme5"
+              "command": "urawsm:saveTheme5"
             },
             {
               "label": "Save: Theme 6",
-              "command": "uuu:saveTheme6"
+              "command": "urawsm:saveTheme6"
             },
             {
               "label": "Save: Theme 7",
-              "command": "uuu:saveTheme7"
+              "command": "urawsm:saveTheme7"
             },
             {
               "label": "Save: Theme 8",
-              "command": "uuu:saveTheme8"
+              "command": "urawsm:saveTheme8"
             },
             {
               "label": "Save: Theme 9",
-              "command": "uuu:saveTheme9"
+              "command": "urawsm:saveTheme9"
             },
             {
               "label": "Save: Theme 10",
-              "command": "uuu:saveTheme10"
+              "command": "urawsm:saveTheme10"
             },
             {
               "label": "Use: Theme 1",
-              "command": "uuu:useTheme1"
+              "command": "urawsm:useTheme1"
             },
             {
               "label": "Use: Theme 2",
-              "command": "uuu:useTheme2"
+              "command": "urawsm:useTheme2"
             },
             {
               "label": "Use: Theme 3",
-              "command": "uuu:useTheme3"
+              "command": "urawsm:useTheme3"
             },
             {
               "label": "Use: Theme 4",
-              "command": "uuu:useTheme4"
+              "command": "urawsm:useTheme4"
             },
             {
               "label": "Use: Theme 5",
-              "command": "uuu:useTheme5"
+              "command": "urawsm:useTheme5"
             },
             {
               "label": "Use: Theme 6",
-              "command": "uuu:useTheme6"
+              "command": "urawsm:useTheme6"
             },
             {
               "label": "Use: Theme 7",
-              "command": "uuu:useTheme7"
+              "command": "urawsm:useTheme7"
             },
             {
               "label": "Use: Theme 8",
-              "command": "uuu:useTheme8"
+              "command": "urawsm:useTheme8"
             },
             {
               "label": "Use: Theme 9",
-              "command": "uuu:useTheme9"
+              "command": "urawsm:useTheme9"
             },
             {
               "label": "Use: Theme 10",
-              "command": "uuu:useTheme10"
+              "command": "urawsm:useTheme10"
             }
           ]
         }

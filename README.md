@@ -1,21 +1,28 @@
-# UUU
+# urawsm
 
-Use this package for exporting and importing UUUr syntax and UI themes created with UUU-Syntax and UUU-UI. This is SUPER easy to do.
-
-
-## Video - UUU
+Use this package for exporting and importing urawsmr syntax and UI themes created with urawsm-Syntax and urawsm-UI. This is SUPER easy to do.
 
 
+```
+apm link --dev
+apm link
+atom -d .
+atom -d
+```
+
+## Video - urawsm
 
 
 
-## Video - UUU-Syntax
+
+
+## Video - urawsm-Syntax
 
 
 
 
 
-## Video - UUU-UI
+## Video - urawsm-UI
 
 - Adjust bg
 - adjust bg value
@@ -41,28 +48,28 @@ Use this package for exporting and importing UUUr syntax and UI themes created w
 
 
 
-# UUU-syntax theme
+# urawsm-syntax theme
 
-This is a syntax for UUU.
+This is a syntax for urawsm.
 
-UUU can easily change the color, font-style and font-weight of nearly every piece of syntax. So, make a syntax UUUr way.
+urawsm can easily change the color, font-style and font-weight of nearly every piece of syntax. So, make a syntax urawsmr way.
 
 
 
 
 ## Usage
-- Install [UUU-Syntax] and activate it
-- Click on the gear icon to access settings for UUU-Syntax
+- Install [urawsm-Syntax] and activate it
+- Click on the gear icon to access settings for urawsm-Syntax
 - Style away!
 
 
 **PROtip for theming**
 - Use "dev mode" to see updates as you make them. Open your terminal navigate to your current working directory and enter `atom --dev .` Using the [Terminal Plus](https://atom.io/packages/terminal-plus) package it the fastest solution for me, but use whatever you like.
-- Open files for all the languages that you want to style. You don't need to style every language. This is UUUr syntax!
+- Open files for all the languages that you want to style. You don't need to style every language. This is urawsmr syntax!
 - Just start at the top of the settings and work your way down. Make one change, and then check it out.
 - If you have a bunch of colors that you want to use, just screenshot the swatches and use the color picker to select the colors. You do not need to write done your colors at all.
 - Match the background of the editor with the background of the gutter.
-- Match the background for the selected line with the "Button background" color in the UUU UI.
+- Match the background for the selected line with the "Button background" color in the urawsm UI.
 
 
 
@@ -81,11 +88,11 @@ If your style doesn't show, or it if looks like all the styles reverted to the d
 
 
 
-## Extras! UUU- UI
-If you want to edit UUUr UI also, then install [UUU-UI]() and enjoy the same freedom to edit UUUr UI also.
+## Extras! urawsm- UI
+If you want to edit urawsmr UI also, then install [urawsm-UI]() and enjoy the same freedom to edit urawsmr UI also.
 
 ## Extras! Import and Export Syntax and UI
-If you want to export and import your Syntaxes and UIs, then install [UUU]().
+If you want to export and import your Syntaxes and UIs, then install [urawsm]().
 
 ![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
 
@@ -100,11 +107,11 @@ If you want more from a monospaced font, check out [Monoid](https://larsenwork.c
 
 
 ## Notes:
-UUU-Syntax, lets you modify just about everything that it can. However, if you are an OCD type like me, then you might find that some styles modify some things that they should/shouldn't. Control at that level really becomes language specific. When a language/Grammar is mapped in Atom, it follows the same conventions used in TextMate. Read this:  [12 Language Grammars](http://manual.macromates.com/en/language_grammars.html#naming_conventions). The take away, is that there are many ways to mark up a Grammar, and these decisions are made differently between languages. Thus, there is an inconsistency in the use of available classes in Atom to style. Furthermore, not every Grammar marks up all of its pieces. Sometimes a grammar might lump a bunch of pieces into one identifier.
+urawsm-Syntax, lets you modify just about everything that it can. However, if you are an OCD type like me, then you might find that some styles modify some things that they should/shouldn't. Control at that level really becomes language specific. When a language/Grammar is mapped in Atom, it follows the same conventions used in TextMate. Read this:  [12 Language Grammars](http://manual.macromates.com/en/language_grammars.html#naming_conventions). The take away, is that there are many ways to mark up a Grammar, and these decisions are made differently between languages. Thus, there is an inconsistency in the use of available classes in Atom to style. Furthermore, not every Grammar marks up all of its pieces. Sometimes a grammar might lump a bunch of pieces into one identifier.
 
 But so what! You want to style the syntax for the languages that you use! You don't need to style EVERY FUNKING LANGUAGE that exists right?! So go styles what you use!
 
-Overall, I can live with what UUU-Syntax covers. If there is a special case that you need, then let me know. I can't promise that I can make an update, but I will look at the ticket and respond.
+Overall, I can live with what urawsm-Syntax covers. If there is a special case that you need, then let me know. I can't promise that I can make an update, but I will look at the ticket and respond.
 
 
 
