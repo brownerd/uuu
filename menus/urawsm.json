@@ -59,35 +59,35 @@
               "command": "urawsm:runPreset2"
             },
             {
-              "label": "Preset: Raji",
+              "label": "Preset: Schmaterial",
               "command": "urawsm:runPreset3"
             },
             {
-              "label": "Preset: Jabari",
+              "label": "Preset: DarkEarth",
               "command": "urawsm:runPreset4"
             },
             {
-              "label": "Preset: SuperNES",
+              "label": "Preset: Brownerd",
               "command": "urawsm:runPreset5"
             },
             {
-              "label": "Preset: TMNT - Donetello",
+              "label": "Preset: SuperNES",
               "command": "urawsm:runPreset6"
             },
             {
-              "label": "Preset: Stranger Things",
+              "label": "Preset: TMNT-Donetello",
               "command": "urawsm:runPreset7"
             },
             {
-              "label": "Preset: Crockford",
+              "label": "Preset: MiamiVice",
               "command": "urawsm:runPreset8"
             },
             {
-              "label": "Preset: Cardinals",
+              "label": "Preset: Typographical",
               "command": "urawsm:runPreset9"
             },
             {
-              "label": "Preset: Princess Peach",
+              "label": "Preset: BuckNaked",
               "command": "urawsm:runPreset10"
             },
             {
@@ -111,26 +111,6 @@
               "command": "urawsm:saveTheme5"
             },
             {
-              "label": "Save: Theme 6",
-              "command": "urawsm:saveTheme6"
-            },
-            {
-              "label": "Save: Theme 7",
-              "command": "urawsm:saveTheme7"
-            },
-            {
-              "label": "Save: Theme 8",
-              "command": "urawsm:saveTheme8"
-            },
-            {
-              "label": "Save: Theme 9",
-              "command": "urawsm:saveTheme9"
-            },
-            {
-              "label": "Save: Theme 10",
-              "command": "urawsm:saveTheme10"
-            },
-            {
               "label": "Use: Theme 1",
               "command": "urawsm:useTheme1"
             },
@@ -149,26 +129,6 @@
             {
               "label": "Use: Theme 5",
               "command": "urawsm:useTheme5"
-            },
-            {
-              "label": "Use: Theme 6",
-              "command": "urawsm:useTheme6"
-            },
-            {
-              "label": "Use: Theme 7",
-              "command": "urawsm:useTheme7"
-            },
-            {
-              "label": "Use: Theme 8",
-              "command": "urawsm:useTheme8"
-            },
-            {
-              "label": "Use: Theme 9",
-              "command": "urawsm:useTheme9"
-            },
-            {
-              "label": "Use: Theme 10",
-              "command": "urawsm:useTheme10"
             }
           ]
         }
