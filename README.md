@@ -127,7 +127,9 @@ If you like your Terminal in your Atom editor check out [Platformio IDE Termina]
 If you want more from a monospaced font, check out [Monoid](https://larsenwork.com/monoid/).
 
 
-## Notes:
+## Goals
+This evolved as an effort to make the process of hacking a theme easier. I think this makes that possible. I hope this opens insights into making theme creation, editing and sharing easier for everyone. 
+
 
 ## Issues/Requests
 If there is a special case that you need, then let me know. I can't promise that I can make an update, but I will look at the ticket and respond.
