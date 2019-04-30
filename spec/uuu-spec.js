@@ -1,44 +1,44 @@
 'use babel';
 
-import urawsm from '../lib/urawsm';
+import uuu from '../lib/uuu';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
 // To run a specific `it` or `describe` block add an `f` to the front (e.g. `fit`
 // or `fdescribe`). Remove the `f` to unfocus the block.
 
-describe('urawsm', () => {
+describe('uuu', () => {
   let workspaceElement, activationPromise;
 
   beforeEach(() => {
     workspaceElement = atom.views.getView(atom.workspace);
-    activationPromise = atom.packages.activatePackage('urawsm');
+    activationPromise = atom.packages.activatePackage('uuu');
   });
 
-  describe('when the urawsm:toggle event is triggered', () => {
+  describe('when the uuu:toggle event is triggered', () => {
     it('hides and shows the modal panel', () => {
       // Before the activation event the view is not on the DOM, and no panel
       // has been created
-      expect(workspaceElement.querySelector('.urawsm')).not.toExist();
+      expect(workspaceElement.querySelector('.uuu')).not.toExist();
 
       // This is an activation event, triggering it will cause the package to be
       // activated.
-      atom.commands.dispatch(workspaceElement, 'urawsm:toggle');
+      atom.commands.dispatch(workspaceElement, 'uuu:toggle');
 
       waitsForPromise(() => {
         return activationPromise;
       });
 
       runs(() => {
-        expect(workspaceElement.querySelector('.urawsm')).toExist();
+        expect(workspaceElement.querySelector('.uuu')).toExist();
 
-        let urawsmElement = workspaceElement.querySelector('.urawsm');
-        expect(urawsmElement).toExist();
+        let uuuElement = workspaceElement.querySelector('.uuu');
+        expect(uuuElement).toExist();
 
-        let urawsmPanel = atom.workspace.panelForItem(urawsmElement);
-        expect(urawsmPanel.isVisible()).toBe(true);
-        atom.commands.dispatch(workspaceElement, 'urawsm:toggle');
-        expect(urawsmPanel.isVisible()).toBe(false);
+        let uuuPanel = atom.workspace.panelForItem(uuuElement);
+        expect(uuuPanel.isVisible()).toBe(true);
+        atom.commands.dispatch(workspaceElement, 'uuu:toggle');
+        expect(uuuPanel.isVisible()).toBe(false);
       });
     });
 
@@ -51,11 +51,11 @@ describe('urawsm', () => {
       // workspaceElement to the DOM are generally slower than those off DOM.
       jasmine.attachToDOM(workspaceElement);
 
-      expect(workspaceElement.querySelector('.urawsm')).not.toExist();
+      expect(workspaceElement.querySelector('.uuu')).not.toExist();
 
       // This is an activation event, triggering it causes the package to be
       // activated.
-      atom.commands.dispatch(workspaceElement, 'urawsm:toggle');
+      atom.commands.dispatch(workspaceElement, 'uuu:toggle');
 
       waitsForPromise(() => {
         return activationPromise;
@@ -63,10 +63,10 @@ describe('urawsm', () => {
 
       runs(() => {
         // Now we can test for view visibility
-        let urawsmElement = workspaceElement.querySelector('.urawsm');
-        expect(urawsmElement).toBeVisible();
-        atom.commands.dispatch(workspaceElement, 'urawsm:toggle');
-        expect(urawsmElement).not.toBeVisible();
+        let uuuElement = workspaceElement.querySelector('.uuu');
+        expect(uuuElement).toBeVisible();
+        atom.commands.dispatch(workspaceElement, 'uuu:toggle');
+        expect(uuuElement).not.toBeVisible();
       });
     });
   });

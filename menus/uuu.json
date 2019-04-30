@@ -2,24 +2,24 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "urawsm: Export theme",
-        "command": "urawsm:exportThemeObject"
+        "label": "uuu: Export theme",
+        "command": "uuu:exportThemeObject"
       },
       {
-        "label": "urawsm: Import theme",
-        "command": "urawsm:importThemeObject"
+        "label": "uuu: Import theme",
+        "command": "uuu:importThemeObject"
       },
       {
-        "label": "urawsm: Font check",
-        "command": "urawsm:fontcheck"
+        "label": "uuu: Font check",
+        "command": "uuu:fontcheck"
       },
       {
-        "label": "urawsm: Font sync",
-        "command": "urawsm:fontsync"
+        "label": "uuu: Font sync",
+        "command": "uuu:fontsync"
       },
       {
-        "label": "urawsm: Reload window",
-        "command": "urawsm:reloadWindow"
+        "label": "uuu: Reload window",
+        "command": "uuu:reloadWindow"
       }
     ]
   },
@@ -28,107 +28,115 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "urawsm",
+          "label": "uuu",
           "submenu": [
             {
-              "label": "urawsm: Export theme",
-              "command": "urawsm:exportThemeObject"
+              "label": "uuu: Export theme",
+              "command": "uuu:exportThemeObject"
             },
             {
-              "label": "urawsm: Import theme",
-              "command": "urawsm:importThemeObject"
+              "label": "uuu: Import theme",
+              "command": "uuu:importThemeObject"
             },
             {
               "label": "Font: check",
-              "command": "urawsm:fontcheck"
+              "command": "uuu:fontcheck"
             },
             {
               "label": "Font: sync",
-              "command": "urawsm:fontsync"
+              "command": "uuu:fontsync"
             },
             {
               "label": "Reload: window",
-              "command": "urawsm:reloadWindow"
+              "command": "uuu:reloadWindow"
             },
             {
               "label": "Preset: Melowdrama",
-              "command": "urawsm:runPreset1"
+              "command": "uuu:runPreset1"
             },
             {
               "label": "Preset: Amir",
-              "command": "urawsm:runPreset2"
+              "command": "uuu:runPreset2"
             },
             {
               "label": "Preset: Schmaterial",
-              "command": "urawsm:runPreset3"
+              "command": "uuu:runPreset3"
             },
             {
               "label": "Preset: DarkEarth",
-              "command": "urawsm:runPreset4"
+              "command": "uuu:runPreset4"
             },
             {
-              "label": "Preset: Brownerd",
-              "command": "urawsm:runPreset5"
+              "label": "Preset: brickCity",
+              "command": "uuu:runPreset5"
             },
             {
               "label": "Preset: SuperNES",
-              "command": "urawsm:runPreset6"
+              "command": "uuu:runPreset6"
             },
             {
               "label": "Preset: TMNT-Donetello",
-              "command": "urawsm:runPreset7"
+              "command": "uuu:runPreset7"
+            },
+            {
+              "label": "Preset: PrincessPeach",
+              "command": "uuu:runPreset8"
+            },
+            {
+              "label": "Preset: StrangerThings",
+              "command": "uuu:runPreset9"
             },
             {
               "label": "Preset: MiamiVice",
-              "command": "urawsm:runPreset8"
+              "command": "uuu:runPreset10"
             },
             {
               "label": "Preset: Typographical",
-              "command": "urawsm:runPreset9"
+              "command": "uuu:runPresetOriginal1"
             },
             {
               "label": "Preset: BuckNaked",
-              "command": "urawsm:runPreset10"
+              "command": "uuu:runPresetOriginal2"
             },
             {
               "label": "Save: Theme 1",
-              "command": "urawsm:saveTheme1"
+              "command": "uuu:saveTheme1"
             },
             {
               "label": "Save: Theme 2",
-              "command": "urawsm:saveTheme2"
+              "command": "uuu:saveTheme2"
             },
             {
               "label": "Save: Theme 3",
-              "command": "urawsm:saveTheme3"
+              "command": "uuu:saveTheme3"
             },
             {
               "label": "Save: Theme 4",
-              "command": "urawsm:saveTheme4"
+              "command": "uuu:saveTheme4"
             },
             {
               "label": "Save: Theme 5",
-              "command": "urawsm:saveTheme5"
+              "command": "uuu:saveTheme5"
             },
             {
               "label": "Use: Theme 1",
-              "command": "urawsm:useTheme1"
+              "command": "uuu:useTheme1"
             },
             {
               "label": "Use: Theme 2",
-              "command": "urawsm:useTheme2"
+              "command": "uuu:useTheme2"
             },
             {
               "label": "Use: Theme 3",
-              "command": "urawsm:useTheme3"
+              "command": "uuu:useTheme3"
             },
             {
               "label": "Use: Theme 4",
-              "command": "urawsm:useTheme4"
+              "command": "uuu:useTheme4"
             },
             {
               "label": "Use: Theme 5",
-              "command": "urawsm:useTheme5"
+              "command": "uuu:useTheme5"
             }
           ]
         }

@@ -1,8 +1,8 @@
 'use babel';
 
-import urawsmView from '../lib/urawsm-view';
+import uuuView from '../lib/uuu-view';
 
-describe('urawsmView', () => {
+describe('uuuView', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });
