@@ -1,8 +1,8 @@
 {
   "name": "uuu",
   "main": "./lib/main",
-  "version": "1.0.0",
-  "description": "Make awesome syntax and ui themes that you can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
+  "version": "0.0.0",
+  "description": "Make the syntax and ui themes that UU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
