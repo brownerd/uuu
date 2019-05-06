@@ -1,8 +1,8 @@
 {
   "name": "uuu",
-  "main": "./lib/uuu",
+  "main": "./lib/main",
   "version": "0.0.0",
-  "description": "Make awesome syntax and ui themes that you can hack, export and import in seconds. This only works with UUU-Syntax and UUU-UI.",
+  "description": "Make the syntax and ui themes that UU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
@@ -22,13 +22,9 @@
       "uuu:runPreset5",
       "uuu:runPreset6",
       "uuu:runPreset7",
-      "uuu:runPreset11",
-      "uuu:runPreset12",
-      "uuu:runPreset13",
-      "uuu:runPreset14",
-      "uuu:runPreset15",
-      "uuu:runPreset16",
-      "uuu:runPreset17",
+      "uuu:runPreset8",
+      "uuu:runPreset9",
+      "uuu:runPreset10",
       "uuu:runPresetOriginal1",
       "uuu:runPresetOriginal2",
       "uuu:saveTheme1",
@@ -36,24 +32,14 @@
       "uuu:saveTheme3",
       "uuu:saveTheme4",
       "uuu:saveTheme5",
-      "uuu:saveTheme6",
-      "uuu:saveTheme7",
-      "uuu:saveTheme8",
-      "uuu:saveTheme9",
-      "uuu:saveTheme10",
       "uuu:useTheme1",
       "uuu:useTheme2",
       "uuu:useTheme3",
       "uuu:useTheme4",
-      "uuu:useTheme5",
-      "uuu:useTheme6",
-      "uuu:useTheme7",
-      "uuu:useTheme8",
-      "uuu:useTheme9",
-      "uuu:useTheme10"
+      "uuu:useTheme5"
     ]
   },
-  "repository": "https://github.com/atom/uuu",
+  "repository": "",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
