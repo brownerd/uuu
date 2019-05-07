@@ -40,7 +40,7 @@
       "uuu:useTheme5"
     ]
   },
-  "repository": "",
+  "repository": "https://github.com/brownerd/uuu-kit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
