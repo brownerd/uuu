@@ -1,5 +1,5 @@
 {
-  "name": "uuu",
+  "name": "uuu-kit",
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "Make the syntax and ui themes that UU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
