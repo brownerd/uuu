@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "author": "brownerd <ben@brownerd.com>",
   "version": "1.0.2",
-  "description": "Make the syntax and ui themes that UU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
+  "description": "Make the syntax and ui themes that UUU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
