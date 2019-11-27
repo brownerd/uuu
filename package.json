@@ -2,7 +2,7 @@
   "name": "uuu-kit",
   "main": "./lib/main",
   "author": "brownerd <ben@brownerd.com>",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Make the syntax and ui themes that UUU can hack, export and import in seconds. This only works with UUU-SYNTAX and UUU-UI.",
   "keywords": [],
   "activationCommands": {
